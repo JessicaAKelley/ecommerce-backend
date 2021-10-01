@@ -18,7 +18,7 @@ The E-Commerce Back End is an application using MySQL2, Express, and Sequelize t
 - NPM
 
 ## Installation
-Once the repository is downloaded or cloned, be sure to cd into the repository and type "npm install" at the command line in order to get the appropriate dependencies and files to begin. Next, create a .env file that corresponds with the variables in the config folder. Next, type mysql -u root -p at the command line to open the mysql terminal. Then type source db/schema.sql to link the database.
+Once the repository is downloaded or cloned, be sure to cd into the repository and type "npm install" at the command line in order to get the appropriate dependencies and files to begin. Next, create a .env file that corresponds with the variables in the config folder. Next, type "mysql -u root -p" at the command line to open the MySQL shell. Then type source db/schema.sql to link the database.
 
 ## Usage
 The E-Commerce Back End is an excellent application to allow a user to create, post, update, and delete information on an e-commerce site. Its main use serves to test the functionality of the API routes.
